@@ -1,0 +1,16 @@
+{
+  "training_duration": "00:00:05",
+  "training_start_epoch": 0,
+  "training_epochs": 3,
+  "epoch": 3,
+  "training_accuracy": 0.40229079008882657,
+  "training_accuracy3": 0.6414212248714353,
+  "training_loss": 2.0469651321570077,
+  "validation_accuracy": 0.36046511627906974,
+  "validation_accuracy3": 0.5883720930232558,
+  "validation_loss": 2.4557489156723022,
+  "best_epoch": 3,
+  "best_validation_accuracy": 0.36046511627906974,
+  "best_validation_accuracy3": 0.5883720930232558,
+  "best_validation_loss": 2.4557489156723022
+}
